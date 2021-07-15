@@ -1,6 +1,5 @@
 class Main {
   public static void main(String[] args) {
-    // 変更
     String msg = "" ;
     msg += "Hello " ;
     msg += "World!" ;
